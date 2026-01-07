@@ -1,0 +1,48 @@
+
+Wed Jan  7 10:40:36 2026
+
+==Equivalent Capacitor==
+User Choice = Series
+How many capacitor : 3
+The #1  value of the capacitor: 3.000 uF
+The #2  value of the capacitor: 3.000 uF
+The #3  value of the capacitor: 3.000 uF
+The equivalent value of capacitor is 1.000 uF
+
+Wed Jan  7 11:01:21 2026
+
+==Equivalent Resistor==
+Use choice : Parallel
+How many resitor : 4
+The #1 value of the resistor:1.000 Ω
+The #2 value of the resistor:2.000 Ω
+The #3 value of the resistor:3.000 Ω
+The #4 value of the resistor:4.000 Ω
+The equivalent value of resistor is 10.000 Ω
+
+Wed Jan  7 17:57:05 2026
+
+==Equivalent Resistor==
+Use choice : Parallel
+How many resitor : 3
+The #1 value of the resistor:1.000 Ω
+The #2 value of the resistor:2.000 Ω
+The #3 value of the resistor:3.000 Ω
+The equivalent value of resistor is 6.000 Ω
+
+Wed Jan  7 17:57:46 2026
+
+==Delta-Wye==
+The value of Ra: 1
+The value of Rb: 2
+The value of Rc: 3
+Value of R1 is 1 Ω
+Value of R2 is 0.5 Ω
+Value of R3 is 0.333333 Ω
+
+Wed Jan  7 19:10:19 2026
+
+==OHM'S LAW==
+Voltage = 6.0000 V
+Current = 2.0000 A
+Resistance = 3.0000 Ω
